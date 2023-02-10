@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fetch-assessment/static/css/main.3c22ac69.css",
+    "main.js": "/fetch-assessment/static/js/main.022cc1d5.js",
+    "static/media/logo.svg": "/fetch-assessment/static/media/logo.6de338811d2429f33de27b0df067a652.svg",
+    "static/media/dog.svg": "/fetch-assessment/static/media/dog.0f4999d0f452dd8330dc342b685c1a5e.svg",
+    "index.html": "/fetch-assessment/index.html",
+    "main.3c22ac69.css.map": "/fetch-assessment/static/css/main.3c22ac69.css.map",
+    "main.022cc1d5.js.map": "/fetch-assessment/static/js/main.022cc1d5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c22ac69.css",
+    "static/js/main.022cc1d5.js"
+  ]
+}
